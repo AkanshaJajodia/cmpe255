@@ -13,8 +13,7 @@ Install the mentioned libraries:
 7) calendar
 8) holidays
 9) re
-10)nltk
-11)string
-12)langdetect
-13)wordcloud
-14)
+10) nltk
+11) string
+12) langdetect
+13) wordcloud
